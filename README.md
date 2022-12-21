@@ -5,8 +5,6 @@
 
 ![Júlio GitHub status](https://github-readme-stats.vercel.app/api?username=jcesargm&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcesargm&layout=compact)](https://github.com/jcesargm/github-readme-stats)
-<br/>
 ### _Tecnologias que eu uso diariamente:_
 
 <div style="display: inline_block">
