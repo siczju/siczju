@@ -5,7 +5,7 @@
 
 ![Júlio GitHub status](https://github-readme-stats.vercel.app/api?username=jcesargm&show_icons=true&theme=tokyonight)
 
-### _Tecnologias que eu uso diariamente:_
+### _Technologies I usually use in my daily:_
 
 <div style="display: inline_block">
 
