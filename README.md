@@ -3,7 +3,7 @@
 - 💻 _Currently i'm in the first year of computer course at IFPR - Londrina_ <br>
 - 🛠️ _I'm currently focused on the JavaScript language_ <br/>
 
-![Júlio GitHub status](https://github-readme-stats.vercel.app/api?username=jcesargm&show_icons=true&theme=tokyonight)
+![Júlio GitHub status](https://github-readme-stats.vercel.app/api?username=siczju&show_icons=true&theme=tokyonight)
 
 ### _Technologies I usually use in my daily:_
 
