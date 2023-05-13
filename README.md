@@ -1,6 +1,6 @@
 
   ##  _Hi! I'm Júlio César 🌑 Welcome!_
-- 💻 _Currently i'm in the first year of computer course at IFPR - Londrina_ <br>
+- 💻 _Currently i'm in the second year of computer course at IFPR - Londrina_ <br>
 - 🛠️ _I'm currently focused on the JavaScript language_ <br/>
 
 ### _Technologies I usually use in my daily:_
