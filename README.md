@@ -6,7 +6,7 @@ Busco oportunidade para desenvolver soluções, otimizar processos e gerar impac
 ---
 
 ## O que eu faço
-- Tenho experiência no desenvolvimento de **APIs REST**, aplicando **boas práticas de código**, **princípios SOLID**, **padrões de projeto** e **arquitetura limpa**, trabalhando em ambientes **ágeis** e colaborando através de **pull requests e code review**.
+Tenho experiência no desenvolvimento de **APIs REST**, aplicando **boas práticas de código**, **princípios SOLID**, **padrões de projeto** e **arquitetura limpa**, trabalhando em ambientes **ágeis** e colaborando através de **pull requests e code review**.
 
 ---
 
